@@ -1,0 +1,9 @@
+{
+	"name": "skadfpp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20d2c76a-ec94-450e-b802-041fc3a39afc",
+		"tenantId": "a8d54b65-4755-4a35-9902-94fc1e3aa797"
+	}
+}
